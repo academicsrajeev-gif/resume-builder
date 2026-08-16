@@ -178,3 +178,5 @@ lerna-debug.log*
 *.lz
 *.lzma
 *.iso
+.vercel
+.env*
